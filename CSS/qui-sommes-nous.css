@@ -1,0 +1,94 @@
+body{
+    font-family: 'Roboto Mono';font-size: 17px;
+    font-weight:400;
+}
+#titre1{
+    color:#336699 ;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+#titre2{
+    color:#336699 ;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      padding-top: 5em;
+}
+.texte1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10em;
+    padding-right: 10em;   
+    margin-bottom: 5em;
+}
+.texte2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 30em;
+    padding-right: 10em; 
+    padding-top: 30px;
+    margin-bottom: 5em;
+}
+.p1{
+    color: #666666;
+    justify-content: left;
+}
+.logo1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 96px;
+	height: 96px;
+    padding-left: 42em;
+    margin-bottom: 2em;
+}
+.logo2{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    width: 156px;
+	height: 156px;
+    padding-left: 15em;
+    padding-top: 45px;
+    float: left;
+}
+.link { color: #336699;
+    text-decoration:none; 
+}
+.video1-2{
+    display: flex;
+    flex-direction: row;
+    padding-left: 17em;
+}
+.video3{
+    display: flex;
+    flex-direction: row;
+    padding-left: 17em;
+    padding-top: 7em;
+}
+#txtvideo1{
+    padding-left: 17em;
+    padding-bottom: 10em;
+    flex-direction: row;
+    position: absolute;
+}
+#txtvideo2{
+    padding-left: 50em;
+    padding-bottom: 90em;
+    flex-direction: row;
+    position: absolute
+}
+#txtvideo3{
+    padding-left: 17em;
+    padding-bottom: 10em;
+    flex-direction: row;
+    position: absolute;
+}
+.noms{
+    color:#336699 ;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#imagegroupe{
+    padding-left: 5em;
+}
+
+

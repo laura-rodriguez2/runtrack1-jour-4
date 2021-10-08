@@ -1,0 +1,42 @@
+.titre {
+    text-align: center;
+    padding-left: 10em;
+    padding-right: 10em;
+    color: #ffffff;
+    font-size: 42px;
+    font-weight: bolder;
+    line-height: 1.3em;
+    
+    
+}
+body{
+    background-color: #88C1D0;
+    font-family: 'Roboto Mono';font-size: 22px;
+    
+}
+.rectangle{
+	width:1078.39px;
+	height:994.11px;
+	background:#ffffff;
+    position: absolute; top: 220px; left: 420px;
+    
+}
+.tformulaire{
+    font-size: 34px;
+    color: #275FA0;
+    position: absolute; top: 250px; left: 460px;
+}
+.formulaire1{
+    font-size: 16px;
+    position: absolute; top: 450px; left: 490px;
+    line-height: 5em;
+}
+.formulaire2{
+    font-size: 16px;
+    position: absolute; top: 450px; left: 850px;
+    line-height: 5em;
+     border: 1px solid black; padding: 5px;
+}
+.cadre{ 
+    border: 0.5px solid rgb(126, 123, 123); padding: 5px 250px 5px 5px; 
+}
